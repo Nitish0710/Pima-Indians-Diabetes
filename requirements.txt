@@ -1,4 +1,4 @@
---upgrade pip
+pip install --upgrade pip
 ipython==6.2.1
 jupyter==1.0.0
 matplotlib==2.1.0
